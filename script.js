@@ -5,7 +5,8 @@
 	var loadMatzQuotes = function(){
 		window.quotes = [
 			'I duschen kan ingen se dig gråta.',
-			'Skynda, skynda'
+			'Skynda, skynda',
+			'Det är bara å kasta pengar på problemet'
 			];	
 	};
 	 
