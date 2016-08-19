@@ -7,7 +7,8 @@
 			'I duschen kan ingen se dig gråta.',
 			'Skynda, skynda',
 			'Det är bara å kasta pengar på problemet',
-			'Om man gör en deep copy av Peters medvetande. Tänk vad stor den filen blir.. 2 Megg.'
+			'Om man gör en deep copy av Peters medvetande. Tänk vad stor den filen blir.. 2 Megg.',
+			'En riktig grävlingsfylla'
 			];	
 	};
 	 
